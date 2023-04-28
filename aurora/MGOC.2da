@@ -1,0 +1,41 @@
+µba /goblin_shaman
+***
+                 SOUND
+ATTACK           gbs04a gbs04c
+ATTACK           0 0
+AWAKE            ***
+AWAKE            0
+CAST             ***
+CAST             0
+CONJURE          ***
+CONJURE          0
+DAMAGE           gbs07a gbs08a
+DAMAGE           0 0
+DIE              gbs10a gbs11a
+DIE              0 0
+HEAD_TURN        ***
+HEAD_TURN        0
+READY            ***
+READY            0
+SHOOT            ***
+SHOOT            0
+TWITCH           ***
+TWITCH           0
+WALK             ***
+WALK             0
+ATTACK_SLASH     gbs03a gbs04a
+ATTACK_SLASH     0 0
+ATTACK_BACKSLASH gbs03c gbs04c
+ATTACK_BACKSLASH 0 0
+ATTACK_JAB       gbs03b gbs04b
+ATTACK_JAB       0 0
+EMERGE           ***
+EMERGE           0
+HIDE             ***
+HIDE             0
+SLEEP            ***
+SLEEP            0
+Battle_Cry       gbs01a gbs02b
+Battle_Cry       0 0
+Selection        gbs01b gbs02a
+Selection        0 0
